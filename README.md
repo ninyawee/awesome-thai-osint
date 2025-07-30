@@ -20,6 +20,8 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 
 ## OSINT Tools by Thais
 - [conan](https://github.com/tomhoma/conan) - brazingly fast username scanner written in rust
+- [h8mail](https://github.com/siamthanathack/h8mail) - email OSINT & breach hunting tool with support for multiple breach services and local breach compilation databases
+- [Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) - Burp Suite extension for testing Passkey authentication implementations
 
 ## Leaked Data Source
 
