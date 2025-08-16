@@ -27,6 +27,9 @@ Most of the data could be bought e.g.[dbd](https://medium.com/incubate-co-th/%E0
 - [h8mail](https://github.com/siamthanathack/h8mail) - email OSINT & breach hunting tool with support for multiple breach services and local breach compilation databases
 - [Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) - Burp Suite extension for testing Passkey authentication implementations
 
+## Civic tech
+- [act ai](https://actai.co/) - given a name, is he involve in any government projects(40 M projects)
+
 ## Leaked Data Source
 
 *Source of Boostraping Your public Dataset*
