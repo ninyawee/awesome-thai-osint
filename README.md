@@ -5,7 +5,7 @@ A curated list of amazingly awesome OSINT for Thai 😋
 
 *Source of Information for government-classified data*
 
-Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%9F%E0%B8%9A%E0%B8%81%E0%B8%95%E0%B8%9F%E0%B8%9A%E0%B8%98%E0%B9%8C/).
+Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2-56bdd0987000).
 
 * [Checkgon](https://checkgon.go.th/) - Validate if a bank-wallet-promptpay (financial address), a phone number, and a URL is a suspect of any frauds/suspect. You can report here as well.
 * [Department of Business Development](http://datawarehouse.dbd.go.th/) - All companies' financial stats include those not in the [SET](https://www.set.or.th/set/mainpage.do?language=en&country=US).
