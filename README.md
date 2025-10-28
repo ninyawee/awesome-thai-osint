@@ -16,16 +16,15 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [Family Name Check](http://www.khonthai.com/online/WCHECKLNAME/) - Check if the family name is valid to create.
 * [Police Official Check](https://www.thaipolice.net/) - A given name/surname is a real police or not + get his rank and department.
 * [Revenue Department API](https://zenateconnect.github.io/RevenueDepartmentService/) - Obtain more info about a tax ID/national ID.
-* [national-id-meaning](https://github.com/heypoom/national-id-meaning) - Understand info behind national ID numbering.
+* [national-id-meaning](https://github.com/heypoom/national-id-meaning) (⚠️ 2yr 9mo) - Understand info behind national ID numbering.
 * [CheckMD](https://checkmd.tmc.or.th/) - Check if a name is a legal doctor as well as their specialties.
 * [NHSO Health Lookup](https://srmcitizen.nhso.go.th/) - Look up NHSO health information using ID and date of birth.
 * [TH Portal](https://thportal.bora.dopa.go.th/#/) - Centralize individual data, living place, driving license, lands owned, cars owned, military notes, etc.
 * [ThaiD App](https://play.google.com/store/apps/details?id=th.go.dopa.bora.dims.ddopa&hl=en&pli=1) - Government Authentication (Sign in with ThaiD) for Thai as well as a lot of services by Ministry.
 
 ## OSINT Tools by Thais
-* [conan](https://github.com/tomhoma/conan) - Blazingly fast username scanner written in Rust.
-* [h8mail](https://github.com/siamthanathack/h8mail) - Email OSINT & breach hunting tool with support for multiple breach services and local breach compilation databases.
-* [Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) - Burp Suite extension for testing Passkey authentication implementations.
+* [conan](https://github.com/tomhoma/conan) (24d) - Blazingly fast username scanner written in Rust.
+* [Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) (6mo) - Burp Suite extension for testing Passkey authentication implementations.
 
 ## Civic Tech
 * [act ai](https://actai.co/) - Given a name, is he involved in any government projects (40 M projects).
@@ -74,15 +73,14 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [BKK Traffic Cams](http://www.bmatraffic.com/index.aspx) - Very Low FPS live stream of whole BKK traffic grid.
 
 ## Well-Maintained OSINT
-* [gOSINT](https://github.com/Nhoya/gOSINT) - CLI written in Go.
-* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - International phone number OSINT.
-* [TorBot](https://github.com/DedSecInside/TorBot) - TOR Network spider bot.
-* [Photon](https://github.com/s0md3v/Photon) - Fast Domain OSINT scraper.
-* [Osintgram](https://github.com/Datalux/Osintgram) - Instagram OSINT.
-* [iKy](https://github.com/kennbroorg/iKy) - Email-based OSINT with futuristic interface.
-* [sn0int](https://github.com/kpcyrd/sn0int) - OSINT in RUST with complex domain exploration.
-* [spiderfoot](https://github.com/smicallef/spiderfoot) - Big OSINT.
-* [awesome-osint](https://github.com/jivoi/awesome-osint) - Gives an overview picture, many are not maintained.
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) (7d) - International phone number OSINT.
+* [TorBot](https://github.com/DedSecInside/TorBot) (18d) - TOR Network spider bot.
+* [Photon](https://github.com/s0md3v/Photon) (7mo) - Fast Domain OSINT scraper.
+* [Osintgram](https://github.com/Datalux/Osintgram) (2mo) - Instagram OSINT.
+* [iKy](https://github.com/kennbroorg/iKy) (⚠️ 1yr 3mo) - Email-based OSINT with futuristic interface.
+* [sn0int](https://github.com/kpcyrd/sn0int) (8mo) - OSINT in RUST with complex domain exploration.
+* [spiderfoot](https://github.com/smicallef/spiderfoot) (10mo) - Big OSINT.
+* [awesome-osint](https://github.com/jivoi/awesome-osint) (9d) - Gives an overview picture, many are not maintained.
 
 # Contributing
 
