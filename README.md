@@ -29,12 +29,6 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 ## Civic Tech
 * [act ai](https://actai.co/) - Given a name, is he involved in any government projects (40 M projects).
 
-## Leaked Data Source
-
-*Source of Bootstrapping Your Public Dataset*
-
-* [raidforums](https://raidforums.com/) - Lot of Thai leaks feature here.
-
 ## Gaming
 
 *What do Thais play*
