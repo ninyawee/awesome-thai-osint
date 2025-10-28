@@ -24,7 +24,6 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 
 ## OSINT Tools by Thais
 * [conan](https://github.com/tomhoma/conan) - Blazingly fast username scanner written in Rust.
-* [h8mail](https://github.com/siamthanathack/h8mail) - Email OSINT & breach hunting tool with support for multiple breach services and local breach compilation databases.
 * [Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) - Burp Suite extension for testing Passkey authentication implementations.
 
 ## Civic Tech
@@ -74,7 +73,6 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [BKK Traffic Cams](http://www.bmatraffic.com/index.aspx) - Very Low FPS live stream of whole BKK traffic grid.
 
 ## Well-Maintained OSINT
-* [gOSINT](https://github.com/Nhoya/gOSINT) - CLI written in Go.
 * [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - International phone number OSINT.
 * [TorBot](https://github.com/DedSecInside/TorBot) - TOR Network spider bot.
 * [Photon](https://github.com/s0md3v/Photon) - Fast Domain OSINT scraper.
