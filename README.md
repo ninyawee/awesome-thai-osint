@@ -79,6 +79,4 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 # Contributing
 
 Feel free to update this list by creating a pull request 🥰
----
 
-If you have any questions about this opinionated list, do not hesitate to contact me [@circleoncircles](https://twitter.com/circleoncircles) on Twitter or open an issue on GitHub.
