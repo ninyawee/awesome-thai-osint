@@ -12,6 +12,7 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [Creden](https://creden.co/creditscore/business/main.html) - DBD (Department of Business Development) that could be queried using the person's name.
 * [opencorporates](https://opencorporates.com/) - API for DBD company data.
 * [RD Vat Check](https://vsreg.rd.go.th/VATINFOWSWeb/jsp/VATInfoWSServlet#) - Check if a VAT company is still operating by Thailand IRS given company ID.
+* [e-Tax Invoice Search](https://etax.rd.go.th/ETAXSEARCH/normal-person) - Search for operators authorized to issue electronic tax invoices and receipts (e-Tax Invoice & e-Receipt system).
 * [Department of Lands](http://dolwms.dol.go.th/tvwebp/) - Identify all land properties to buy.
 * [Family Name Check](http://www.khonthai.com/online/WCHECKLNAME/) - Check if the family name is valid to create.
 * [Police Official Check](https://www.thaipolice.net/) - A given name/surname is a real police or not + get his rank and department.
