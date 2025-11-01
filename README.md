@@ -24,8 +24,8 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [ThaiD App](https://play.google.com/store/apps/details?id=th.go.dopa.bora.dims.ddopa&hl=en&pli=1) - Government Authentication (Sign in with ThaiD) for Thai as well as a lot of services by Ministry.
 
 ## OSINT Tools by Thais
-* [conan](https://github.com/tomhoma/conan) (24d) - Blazingly fast username scanner written in Rust.
-* [Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) (6mo) - Burp Suite extension for testing Passkey authentication implementations.
+* [conan](https://github.com/tomhoma/conan) (28d) - Blazingly fast username scanner written in Rust.
+* [Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) (7mo) - Burp Suite extension for testing Passkey authentication implementations.
 
 ## Civic Tech
 * [act ai](https://actai.co/) - Given a name, is he involved in any government projects (40 M projects).
@@ -68,14 +68,14 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [BKK Traffic Cams](http://www.bmatraffic.com/index.aspx) - Very Low FPS live stream of whole BKK traffic grid.
 
 ## Well-Maintained OSINT
-* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) (7d) - International phone number OSINT.
-* [TorBot](https://github.com/DedSecInside/TorBot) (18d) - TOR Network spider bot.
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) (11d) - International phone number OSINT.
+* [TorBot](https://github.com/DedSecInside/TorBot) (2d) - TOR Network spider bot.
 * [Photon](https://github.com/s0md3v/Photon) (7mo) - Fast Domain OSINT scraper.
 * [Osintgram](https://github.com/Datalux/Osintgram) (2mo) - Instagram OSINT.
 * [iKy](https://github.com/kennbroorg/iKy) (⚠️ 1yr 3mo) - Email-based OSINT with futuristic interface.
-* [sn0int](https://github.com/kpcyrd/sn0int) (8mo) - OSINT in RUST with complex domain exploration.
+* [sn0int](https://github.com/kpcyrd/sn0int) (9mo) - OSINT in RUST with complex domain exploration.
 * [spiderfoot](https://github.com/smicallef/spiderfoot) (10mo) - Big OSINT.
-* [awesome-osint](https://github.com/jivoi/awesome-osint) (9d) - Gives an overview picture, many are not maintained.
+* [awesome-osint](https://github.com/jivoi/awesome-osint) (3d) - Gives an overview picture, many are not maintained.
 
 # Contributing
 
