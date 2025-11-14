@@ -19,6 +19,7 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [Revenue Department API](https://zenateconnect.github.io/RevenueDepartmentService/) - Obtain more info about a tax ID/national ID.
 * [national-id-meaning](https://github.com/heypoom/national-id-meaning) (⚠️ 2yr 9mo) - Understand info behind national ID numbering.
 * [CheckMD](https://checkmd.tmc.or.th/) - Check if a name is a legal doctor as well as their specialties.
+* [OIC Insurance License Verification](https://smart.oic.or.th/eservice/Menu1) - Verify if someone has a license to sell insurance using firstname, surname, ID or national ID from the Office of Insurance Commission (สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย).
 * [NHSO Health Lookup](https://srmcitizen.nhso.go.th/) - Look up NHSO health information using ID and date of birth.
 * [TH Portal](https://thportal.bora.dopa.go.th/#/) - Centralize individual data, living place, driving license, lands owned, cars owned, military notes, etc.
 * [ThaiD App](https://play.google.com/store/apps/details?id=th.go.dopa.bora.dims.ddopa&hl=en&pli=1) - Government Authentication (Sign in with ThaiD) for Thai as well as a lot of services by Ministry.
