@@ -21,6 +21,7 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * [CheckMD](https://checkmd.tmc.or.th/) - Check if a name is a legal doctor as well as their specialties.
 * [OIC Insurance License Verification](https://smart.oic.or.th/eservice/Menu1) - Verify if someone has a license to sell insurance using firstname, surname, ID or national ID from the Office of Insurance Commission (สำนักงานคณะกรรมการกำกับและส่งเสริมการประกอบธุรกิจประกันภัย).
 * [NHSO Health Lookup](https://srmcitizen.nhso.go.th/) - Look up NHSO health information using ID and date of birth.
+* [Royal Thai Government Gazette](https://ratchakitcha.soc.go.th/) - Check if a person or company is in default/bankruptcy or has received royal decorations, ranks, or titles. Also includes government announcements, royal decrees, and official legal notices.
 * [TH Portal](https://thportal.bora.dopa.go.th/#/) - Centralize individual data, living place, driving license, lands owned, cars owned, military notes, etc.
 * [ThaiD App](https://play.google.com/store/apps/details?id=th.go.dopa.bora.dims.ddopa&hl=en&pli=1) - Government Authentication (Sign in with ThaiD) for Thai as well as a lot of services by Ministry.
 
