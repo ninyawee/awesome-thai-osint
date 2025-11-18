@@ -60,6 +60,10 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
   Check if a person or company is in default/bankruptcy or has received royal decorations, ranks, or titles.
   Also includes government announcements, royal decrees, and official legal notices.
 
+* **[Central Bankruptcy Court Case Search](https://esv-cbc.coj.go.th/service/index.php)**
+  Search for bankruptcy case information from Thailand's Courts of Justice.
+  **Input:** Case number or search by date range
+
 * **[TH Portal](https://thportal.bora.dopa.go.th/#/)**
   Centralize individual data including:
   - Living place
