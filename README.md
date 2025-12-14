@@ -41,6 +41,10 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
   Obtain more info about a tax ID/national ID.
   **Input:** Tax ID or National ID
 
+* **[konjingjing](https://github.com/ninyawee/konjingjing) (1d)**
+  Thai Citizen ID validation written in Rust, with Python and Node.js bindings.
+  **Features:** `verify_id(id)` for validation, `get_id_meaning(id)` for extracting meaning (person type, province, amphoe, validity)
+
 * **[national-id-meaning](https://github.com/heypoom/national-id-meaning) (⚠️ 2yr 10mo)** (⚠️ 2yr 9mo)
   Understand info behind national ID numbering.
 
