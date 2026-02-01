@@ -41,11 +41,11 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
   Obtain more info about a tax ID/national ID.
   **Input:** Tax ID or National ID
 
-* **[konjingjing](https://github.com/ninyawee/konjingjing) (1d)**
+* **[konjingjing](https://github.com/ninyawee/konjingjing) (1mo)**
   Thai Citizen ID validation written in Rust, with Python and Node.js bindings.
   **Features:** `verify_id(id)` for validation, `get_id_meaning(id)` for extracting meaning (person type, province, amphoe, validity)
 
-* **[national-id-meaning](https://github.com/heypoom/national-id-meaning) (⚠️ 2yr 10mo)** (⚠️ 2yr 9mo)
+* **[national-id-meaning](https://github.com/heypoom/national-id-meaning) (⚠️ 3yr)** (⚠️ 2yr 9mo)
   Understand info behind national ID numbering.
 
 * **[CheckMD](https://checkmd.tmc.or.th/)**
@@ -78,10 +78,10 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 
 ## OSINT Tools by Thais
 
-* **[conan](https://github.com/tomhoma/conan) (17d)** (28d)
+* **[conan](https://github.com/tomhoma/conan) (2mo)** (28d)
   Blazingly fast username scanner written in Rust.
 
-* **[Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) (8mo)** (7mo)
+* **[Passkey-Raider](https://github.com/siamthanathack/Passkey-Raider) (10mo)** (7mo)
   Burp Suite extension for testing Passkey authentication implementations.
 
 ## Civic Tech
@@ -153,28 +153,28 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 
 ## Well-Maintained OSINT
 
-* **[PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) (1mo)** (11d)
+* **[PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) (25d)** (11d)
   International phone number OSINT.
 
-* **[TorBot](https://github.com/DedSecInside/TorBot) (1mo)** (2d)
+* **[TorBot](https://github.com/DedSecInside/TorBot) (23d)** (2d)
   TOR Network spider bot.
 
-* **[Photon](https://github.com/s0md3v/Photon) (8mo)** (7mo)
+* **[Photon](https://github.com/s0md3v/Photon) (1mo)** (7mo)
   Fast Domain OSINT scraper.
 
-* **[Osintgram](https://github.com/Datalux/Osintgram) (3mo)** (2mo)
+* **[Osintgram](https://github.com/Datalux/Osintgram) (5mo)** (2mo)
   Instagram OSINT.
 
-* **[iKy](https://github.com/kennbroorg/iKy) (⚠️ 1yr 4mo)** (⚠️ 1yr 3mo)
+* **[iKy](https://github.com/kennbroorg/iKy) (⚠️ 1yr 6mo)** (⚠️ 1yr 3mo)
   Email-based OSINT with futuristic interface.
 
-* **[sn0int](https://github.com/kpcyrd/sn0int) (10mo)** (9mo)
+* **[sn0int](https://github.com/kpcyrd/sn0int) (1yr)** (9mo)
   OSINT in RUST with complex domain exploration.
 
-* **[spiderfoot](https://github.com/smicallef/spiderfoot) (11mo)** (10mo)
+* **[spiderfoot](https://github.com/smicallef/spiderfoot) (⚠️ 1yr 1mo)** (10mo)
   Big OSINT.
 
-* **[awesome-osint](https://github.com/jivoi/awesome-osint) (8d)** (3d)
+* **[awesome-osint](https://github.com/jivoi/awesome-osint) (4d)** (3d)
   Gives an overview picture, many are not maintained.
 
 # Contributing
