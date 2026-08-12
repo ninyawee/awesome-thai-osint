@@ -165,6 +165,9 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * **[Osintgram](https://github.com/Datalux/Osintgram) (11mo)** (2mo)
   Instagram OSINT.
 
+* **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper) (0d)**
+  X/Twitter research Skill for bounded search, timelines, follower export, media, monitoring, webhooks, and MCP.
+
 * **[iKy](https://github.com/kennbroorg/iKy) (11d)** (⚠️ 1yr 3mo)
   Email-based OSINT with futuristic interface.
 
