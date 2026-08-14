@@ -181,3 +181,19 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 
 Feel free to update this list by creating a pull request 🥰
 
+**What belongs here**
+
+* **Thai-relevant** — a Thai data source, or a general-purpose tool that meaningfully helps OSINT work on Thailand.
+* **Free to use** — self-hostable, or a public service anyone can reach. Paid and credit-billed APIs, SaaS trials, and anything requiring a vendor account are out.
+* **Established** — the *Well-Maintained OSINT* section is for tools already in real use, not new projects looking for visibility.
+* **One entry per PR**, in the matching section, following the existing format:
+
+  ```markdown
+  * **[Name](https://example.com)**
+    One line on what it does.
+  ```
+
+  Leave the `(3d)` / `(⚠️ 1yr 3mo)` timestamps out — [a monthly workflow](.github/workflows/update-commit-dates.yml) adds and refreshes them.
+
+**Not accepted:** promotion of your own commercial product, and automated or templated listing PRs sent to many repos at once. These get closed without discussion.
+
