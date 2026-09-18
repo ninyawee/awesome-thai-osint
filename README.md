@@ -20,6 +20,9 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * **[opencorporates](https://opencorporates.com/)**
   API for DBD company data.
 
+* **[OpenRegistry](https://openregistry.sophymarine.com)**
+  Live DBD DataWarehouse records — company search, profile, directors and multi-year financial statements read from the official register at query time, exposed over MCP for AI agents.
+
 * **[RD Vat Check](https://vsreg.rd.go.th/VATINFOWSWeb/jsp/VATInfoWSServlet#)**
   Check if a VAT company is still operating by Thailand IRS.
   **Input:** Company ID
