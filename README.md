@@ -37,6 +37,10 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
   Verify if a given name/surname is a real police officer.
   **Returns:** Rank and department
 
+* **[ECT Party Membership Check](https://party.ect.go.th/services/member-check)**
+  Check which political party a person is a member of (ตรวจสมาชิกพรรคการเมือง), from the Election Commission of Thailand (กกต.).
+  **Input:** National ID (13 digits), behind a Cloudflare Turnstile captcha
+
 * **[Revenue Department API](https://zenateconnect.github.io/RevenueDepartmentService/)**
   Obtain more info about a tax ID/national ID.
   **Input:** Tax ID or National ID
