@@ -145,6 +145,9 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * **[ศูนย์กลางแลกเปลี่ยนข้อมูลภาครัฐ](https://gdx.dga.or.th/Account/Login?ReturnUrl=%2f)**
   Data Channel for Government Officials.
 
+* **[Twitter (X) Trends in Thailand](https://twtdata.com/twitter-trends/thailand/)**
+  Trending topics on X in Thailand and Bangkok, with a dated daily archive.
+
 ## Metropolis
 
 ### Mueang, Udon Thani
