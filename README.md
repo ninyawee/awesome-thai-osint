@@ -14,6 +14,9 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * **[Department of Business Development](http://datawarehouse.dbd.go.th/)**
   All companies' financial stats include those not in the [SET](https://www.set.or.th/set/mainpage.do?language=en&country=US).
 
+* **[Company Records](https://records.knowyourcustomer.com/)**
+  Free anonymous company search across 149 jurisdictions, including Thailand (DBD-sourced); on purchase, the company report and official filings are retrieved live from the official register (paid, from US$19).
+
 * **[Creden](https://creden.co/creditscore/business/main.html)**
   DBD (Department of Business Development) that could be queried using the person's name.
 
