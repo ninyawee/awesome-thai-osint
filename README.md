@@ -181,6 +181,9 @@ Most of the data could be bought e.g. [dbd](https://medium.com/incubate-co-th/%E
 * **[awesome-osint](https://github.com/jivoi/awesome-osint) (0d)** (3d)
   Gives an overview picture, many are not maintained.
 
+* **[Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder)**
+  Company name or website to its LinkedIn, X, YouTube, Instagram and Facebook profiles, with evidence. Pay-per-use Apify Actor (free tier available).
+
 # Contributing
 
 Feel free to update this list by creating a pull request 🥰
